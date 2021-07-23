@@ -1,0 +1,11 @@
+{
+  "name": "frint",
+  "version": "1.0.0",
+  "description": "Powerful and flexible API built to scan legal documents.",
+  "main": "fineprint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Xie, Yuecheng Xu",
+  "license": "ISC"
+}
